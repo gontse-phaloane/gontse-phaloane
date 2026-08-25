@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi, I'm Gontse Paulina Phaloane 👋
 
-<!--
-**gontse-phaloane/gontse-phaloane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm an Engineering Metallurgist with over 7 years of experience in the mining industry, including experience as a Junior Process Engineer and 5 years as a Laboratory Analyst.
+I'm passionate about Data Analytics and Machine Learning, using Python, SQL, R and Power BI to solve real-world problems and improve decision-making.
 
-Here are some ideas to get you started:
+## Skill
+- Process Engineering
+- Laboratory Analysis
+- Machine Learning
+- Python
+- SQL
+- Power BI
+- R
+- Metallurgical Analysis
+  
+## Featured Projects
+- Diabetes Prediction (Kaggle)
+- Bank Marketing Analysis
+- Gold Price Prediction
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## Let's Connect
+  I'm building a portfolio that combines process engineering, metallurgy and data analytics.
