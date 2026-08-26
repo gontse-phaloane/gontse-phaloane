@@ -25,10 +25,11 @@ I'm passionate about Data Analytics and Machine Learning, using Python, SQL, R a
 
 ### Bank Marketing Analysis
 Machine learning project focused on predicting customer subscription to a bank term deposit.
+[View Project](https://github.com/gontse-phaloane/bank-marketing-analysis)
 
 ### Pima Indians Diabetes Prediction
 Machine learning project using patient data to predict diabetes outcomes.
-[view Project](https://github.com/gontse-phaloane/pima-indians-diabetes-prediction)
+[View Project](https://github.com/gontse-phaloane/pima-indians-diabetes-prediction)
 
 ### Gold Price Prediction
 Machine learning project focused on predicting historical gold prices.  
@@ -38,6 +39,4 @@ Machine learning project focused on predicting historical gold prices.
 I'm developing a portfolio that combines my background in Engineering Metallurgy and Process Engineering with Data Analytics and Machine Learning.
   
 ## Let's Connect
-
-- Kaggle: [My Kaggle Profile](YOUR-KAGGLE-LINK)
-- LinkedIn: [My LinkedIn Profile](YOUR-LINKEDIN-LINK)
+I'm building a portfolio that combines process engineering, metallurgy and data analytics.
