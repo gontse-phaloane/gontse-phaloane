@@ -10,19 +10,33 @@ I'm passionate about Data Analytics and Machine Learning, using Python, SQL, R a
 - Process Engineering
 - Metallurgical Analysis
 - Laboratory Analysis
+- Data Analysis
+- Material Balance
+- Process Troubleshooting
 
-### Data & Machine Learning
-- Data Analytics
+### Data Analytics & Machine Learning
 - Machine Learning
 - Python
 - SQL
-- Power BI & Tableau
+- Data Visualization (Power BI & Tableau)
 - R Programming
   
 ## Featured Projects
-- Diabetes Prediction (Kaggle)
-- Bank Marketing Analysis
-- Gold Price Prediction
+
+### Bank Marketing Analysis
+Machine learning project focused on predicting customer subscription to a bank term deposit.
+
+### Pima Indians Diabetes Prediction
+Machine learning project using patient data to predict diabetes outcomes.
+
+### Gold Price Prediction
+Machine learning project focused on predicting historical gold prices.  
+*Currently being improved.*
+
+## What I'm Currently Building
+I'm developing a portfolio that combines my background in Engineering Metallurgy and Process Engineering with Data Analytics and Machine Learning.
   
 ## Let's Connect
-I'm building a portfolio that combines process engineering, metallurgy and data analytics.
+
+- Kaggle: [My Kaggle Profile](YOUR-KAGGLE-LINK)
+- LinkedIn: [My LinkedIn Profile](YOUR-LINKEDIN-LINK)
