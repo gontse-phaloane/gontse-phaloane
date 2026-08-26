@@ -40,3 +40,6 @@ I'm developing a portfolio that combines my background in Engineering Metallurgy
   
 ## Let's Connect
 I'm building a portfolio that combines process engineering, metallurgy and data analytics.
+
+- Kaggle: [View my Kaggle profile](https://www.kaggle.com/gontsephaloane)
+- LinkedIn: [View my LinkedIn profile](https://www.linkedin.com/in/gontse-phaloane-2aaaa1213/)
