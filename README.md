@@ -28,6 +28,7 @@ Machine learning project focused on predicting customer subscription to a bank t
 
 ### Pima Indians Diabetes Prediction
 Machine learning project using patient data to predict diabetes outcomes.
+[view Project](https://github.com/gontse-phaloane/pima-indians-diabetes-prediction)
 
 ### Gold Price Prediction
 Machine learning project focused on predicting historical gold prices.  
