@@ -1,25 +1,35 @@
 ## Hi, I'm Gontse Paulina Phaloane 👋
 
 ## About Me
-I'm an Engineering Metallurgist with over 7 years of experience in the mining industry, including experience as a Junior Process Engineer and 5 years as a Laboratory Analyst.
-I'm passionate about Data Analytics and Machine Learning, using Python, SQL, R and Power BI to solve real-world problems and improve decision-making.
+I'm a Data Scientist with skills in Python, SQL, Machine Learning and Power BI, passionate about using data analytics to solve real-world problems and improve decision-making.
+I have a background in Engineering Metallurgy with over 7 years of experience in the mining industry, including experience as a Junior Process Engineer and 5 years as a Laboratory Analyst.
 
 ## Skill
+### Data Analytics & Machine Learning
+# Machine Learning
+- Unsupervised
+- Supervised
+- Deep learning
 
-### Engineering & Metallurgy
-- Process Engineering
+# Python
+- Pandas
+- NumPy
+- Seaborn
+- Matplotlib
+  
+# SQL
+- Query database
+- Retrieve & filter data
+- Join tables
+- Group & summarize information
+  
+# Data Visualization
+- Power BI
+- Tableau
+
+  ### Engineering & Metallurgy
 - Metallurgical Analysis
 - Laboratory Analysis
-- Data Analysis
-- Material Balance
-- Process Troubleshooting
-
-### Data Analytics & Machine Learning
-- Machine Learning
-- Python
-- SQL
-- Data Visualization (Power BI & Tableau)
-- R Programming
   
 ## Featured Projects
 
@@ -36,10 +46,10 @@ Machine learning project focused on predicting historical gold prices.
 *Currently being improved.*
 
 ## What I'm Currently Building
-I'm developing a portfolio that combines my background in Engineering Metallurgy and Process Engineering with Data Analytics and Machine Learning.
+I'm developing a portfolio that combines my background in Data Analytics and Machine Learning.
   
 ## Let's Connect
-I'm building a portfolio that combines process engineering, metallurgy and data analytics.
+I'm building a portfolio that combines data analytics and metallurgy.
 
 - Kaggle: [View my Kaggle profile](https://www.kaggle.com/gontsephaloane)
 - LinkedIn: [View my LinkedIn profile](https://www.linkedin.com/in/gontse-phaloane-2aaaa1213/)
