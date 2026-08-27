@@ -16,6 +16,7 @@ I have a background in Engineering Metallurgy with over 7 years of experience in
 - NumPy
 - Seaborn
 - Matplotlib
+- Sckit-learn
   
 ## SQL
 - Query database
