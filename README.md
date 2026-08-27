@@ -1,7 +1,7 @@
 ### Hi, I'm Gontse Paulina Phaloane 👋
 
 ### About Me
-I'm a Data Scientist with skills in Python, SQL, Machine Learning and Data Visulization, passionate about using data analytics to solve real-world problems and improve decision-making.
+I'm a Data Scientist with skills in Python, SQL, Machine Learning and Data Visualization, passionate about using data analytics to solve real-world problems and improve decision-making.
 I have a background in Engineering Metallurgy with over 7 years of experience in the mining industry, including experience as a Junior Process Engineer and 5 years as a Laboratory Analyst.
 
 ### Skill
